@@ -28,5 +28,10 @@
        3. Data cleaning and formating
 
   ### Data visualization
-  
-  
+
+  ![image](https://github.com/user-attachments/assets/d4ec1698-135a-493a-9336-0c32e636bc26)
+
+
+  "
+  [heading i] [heading 2] [heading 3]
+  [---------] [---------]
