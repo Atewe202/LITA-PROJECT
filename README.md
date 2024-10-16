@@ -10,15 +10,10 @@
 -The primary source of Dataused here is Data sale .csv and this is open source data that can be freely downloaded from an open source online such as kaggle or FRED opr any other repository sites
 
 ### Tools Used
-- Micrisoft Excel [Download Here}.(https://www.microsoft.com).
-
-  1.  For data Cleaning
-
- 2.  For Analysis
-
-  3.  For Dta Validation
-  
-   -SQL - Structure Query Language of Data
-  
-   -github for portfolio Building
-   -Github
+- Micrisoft Excel     
+   1. For data Cleaning,
+   2. For Analysis
+   3. For Data Visualization
+- SQL - Structure Query Language of Data
+- Github for portfolio Building
+   
