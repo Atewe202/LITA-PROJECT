@@ -26,6 +26,7 @@
        1. Data loading and inspection
        2. Handling missing variables
        3. Data cleaning and formating
-  
+
+  ### Data visualization
   
   
