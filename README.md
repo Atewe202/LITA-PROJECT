@@ -1,9 +1,11 @@
 # LITA-PROJECT
-## Project Title: LITA DATA ANALYSIS 
+## Project Title:  DATA ANALYSIS TRAINING BY LITA
 
 ---
 ### Project Overview
-- this project is intented to raise ladies in tech 
+- This project was intented to raise ladies who are passionate about tech and earger to drive the world of data.
+- It was structured to get the essential data analysis skills needed to kickstart career as a data analyst.
+- The teachings covered the fundamentals of data analysis 
 
 ---
 
