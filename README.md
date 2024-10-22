@@ -28,8 +28,14 @@
 - Micrisoft Excel  [Download Here](https://www.microsoft.com)   
    1. For data Cleaning,
    2. For Analysis
-   3. For Data Visualization
+   3. Pivot table
+   4. Building Excel Dashboard
+       1. use of designs, report layout, pivotable Analyse
+       2. Slicer
+       3. use of alt+f1 to visualise our charts on pivot table
+   6. For Data Visualization
 - SQL - Structure Query Language of Data
+- Power BI - A busness Intelligent tool
 - Github for portfolio Building
 
 ---
