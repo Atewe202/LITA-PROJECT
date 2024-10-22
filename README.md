@@ -20,10 +20,8 @@
 4. Building a porfolio
 5. Working on some projects
    
-
-
 ### Data Sources
--The primary source of Dataused here is Data sale .csv and this is open source data that can be freely downloaded from an open source online such as kaggle or FRED opr any other repository sites
+-The primary source of Data used here is Data sale .csv and this is open source data that can be freely downloaded from an open source online such as kaggle or data.gov or any other repository sites
 
 ---
 ### Tools Used
