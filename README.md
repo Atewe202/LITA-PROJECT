@@ -10,7 +10,7 @@
 
 ---
 ### MY GOALS
--i had serveral expectationa
+- My expectationa for the training include
 1. To learn the basic concept of data analysis and the workflow
     1. Data collection
     2. Cleaning analysis
@@ -26,14 +26,39 @@
 ---
 ### Tools Used
 - Micrisoft Excel  [Download Here](https://www.microsoft.com)   
-   1. For data Cleaning,
-   2. For Analysis
-   3. Pivot table
-   4. Building Excel Dashboard
+   ## Data entering
+  We were taken through data entering and we performed the following;
+  - Use of tab key in data entering,
+  - use of functions like Autofit, Name bos,
+  - -use of ctrl + space bar to hightlight columns and shift + space bar to hightlight rows
+  - Use of form in entering data in excel
+  - How to generate random numbers  =RANDBETWEEN(TOP - BOTTOM)
+  - How to eliminate space =TRIM(
+  - Data Validation
+    
+  ##  Data Cleaning and Preparation
+  Data can come in dirty form, it has to be cleaned before it can be used for analysis.
+  1. Data loading and inspection
+  2. Handling missing variables
+  3. Data cleaning and formating
+   In the initial phase of the Data cleaning and preparation, we performed the following action;
+  -Understanding functional argument:-mandatory and Optional Argument
+  - How to change from one case to another UPPER, PROPER etc
+  -Text Extraction by use of some functions e.g LEFT, RIGHT (when extracting text from the right part of the original text), MID, FIND SEARCH
+  - =RIGHT(Text, LEN, FIND(Text)-FIND " ",Text), =RIGHT(B6,LEN(B6) FIND(" ",B6)
+  - Use of VLOOKUP in nesting tables, VLOOKUP value is what is common in both tables. It could be Exact match or Approximate match
+  - -Use of e function AND, OR
+  - 
+   3. For Analysis
+    
+   ### Creating Report
+    we were taught how to use pivot table which is a data sumerization tool in creating report in excel
+  
+   6. Building Excel Dashboard
        1. use of designs, report layout, pivotable Analyse
        2. Slicer
        3. use of alt+f1 to visualise our charts on pivot table
-   6. For Data Visualization
+   7. For Data Visualization
 - SQL - Structure Query Language of Data
 - Power BI - A busness Intelligent tool
 - Github for portfolio Building
