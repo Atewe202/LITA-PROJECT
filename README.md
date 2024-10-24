@@ -73,7 +73,9 @@
 
   ### Data visualization
 
-  ![image](https://github.com/user-attachments/assets/d4ec1698-135a-493a-9336-0c32e636bc26)
+
+  ![Power BI Dashboard](https://github.com/user-attachments/assets/9bef1feb-dab2-40bb-b2ec-5d374d85c3a8)
+
 
 
 
