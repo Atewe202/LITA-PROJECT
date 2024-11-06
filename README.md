@@ -104,12 +104,42 @@ D. Power BI - A busness Intelligent tool
 
   
   ### Data visualization
+  Excel Class
  ![Excel Class](https://github.com/user-attachments/assets/c7f8bc84-59aa-48ef-aed5-786c7e07ed09)
 
-![Power BI Class](https://github.com/user-attachments/assets/f1606f35-71e8-436d-bf20-9028a9d655e4)
-![Power BI Class](https://github.com/user-attachments/assets/5c5a5843-cfb3-417a-8111-641622410084)
+SQL Class
+
 ![SQL Class](https://github.com/user-attachments/assets/c5179a1b-98a7-4f84-8633-5f1911027032)
 
+Power BI Class
+
+![Poer BI Class](https://github.com/user-attachments/assets/7e1f5913-96b1-4c1a-ae4a-37644ad74904)
+
+
+## Practical -Hands on -
+Excel - Statistical Analysis 
+Conditional Functions
+![Screenshot 2024-11-06 200407](https://github.com/user-attachments/assets/fc1953d7-335b-48e0-99f1-01ca78de4e5c)
+
+## Building Dashboard
+![Screenshot 2024-11-06 202209](https://github.com/user-attachments/assets/3ee2e09c-f33d-4bd9-b930-4a14d5940ea8)
+
+## SQL- Queries
+Creating Tables and Writing Tables
+
+![Screenshot 2024-11-06 195604](https://github.com/user-attachments/assets/d0b111da-1787-4211-9764-78ec5640c7a1)
+
+![Screenshot 2024-11-06 194921](https://github.com/user-attachments/assets/30023e13-508d-4063-84a5-d322214c7ee4)
+
+## Power BI -Data Cleaning 
+![Power BI Class](https://github.com/user-attachments/assets/967edc8c-2b28-40f2-b331-0a825c735fdc)
+
+![Screenshot 2024-10-20 212848](https://github.com/user-attachments/assets/07d2d778-c8e2-4b36-acc9-57ccb6837f75)
+
+
+Map Visual
+
+![Screenshot 2024-11-06 192922](https://github.com/user-attachments/assets/92e5e104-c248-4371-8d53-06de59d7107c)
 
 
 ### Experience: 
