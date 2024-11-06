@@ -1,4 +1,4 @@
-# LITA-PROJECT
+# LITA-DATA ANALYSIS TRAINING
 ## Project Title:  DATA ANALYSIS TRAINING BY LADIES IN TECH AFRICA (LITA)
  
  ### This training was organized by Africa Global Mission (RCCG)
