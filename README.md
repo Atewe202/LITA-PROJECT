@@ -2,6 +2,16 @@
 ## Project Title:  DATA ANALYSIS TRAINING BY LADIES IN TECH AFRICA (LITA)
  
  ### This training was organized by Africa Global Mission (RCCG)
+
+ ### Outline
+- Project Overview
+- Data Sources
+- Skill Acquired: Data Analytic Tools
+- Data Cleaning and Preparation
+- Visulization
+- Experience Acquired
+- Recommendations
+
 ---
 ### Project Overview
 - This project was intented to raise ladies who are passionate about tech and earger to drive the world of data.
@@ -103,7 +113,7 @@ D. Power BI - A busness Intelligent tool
  16. Formating of visuals -Sytes and sizes, Data label, 
 
   
-  ### Data visualization
+  ###  Visualization
   Excel Class
  ![Excel Class](https://github.com/user-attachments/assets/c7f8bc84-59aa-48ef-aed5-786c7e07ed09)
 
@@ -144,16 +154,27 @@ Biulding Power BI Dashboard
 ![Screenshot 2024-11-07 152034](https://github.com/user-attachments/assets/c9629f4c-c47a-4b9b-8642-0e85fe07103d)
 
 
-### Experience: 
+### Experience Aquired: 
 It has been a very engaging and impartfull exercise. Data anallytics is a skill I have always aspire to acquire.
 - Coming from a background with almost zero knowledge on data analysis, I can say am 60% empowered
 - this training has broader my skill on use of data in problem solving as lots of insights are deduced from analysed datasets
 - I will keep building on my  skills as I take on more projects.
 
-  My shout out to  LITAHUB
-  Shout out to our Mother in Isreal Pastor (Mrs) Folu Adeboye for this opprottunity.
-  To my wonderful Facilitators- thank you and more wisdom
-  God Bless you ma
+### Application Of Training
+ As a Medical Laboratory Scientist, a lot of data are generated in the laborator, the skill acquierd will be applied in these some of these areas:
+   -  Analysing these data will enhence in identifying trends and correlation in laboratory data
+   -  Monitorin data to enhence use of commodities and equipment requests
+   -  Informs decision-making and reduces false positives and negatives
+   -  Identifying potential health risks, track patients response to therapies
+   -  Inform study designs and outcomes
+   -  ublication and presentation
+
+   ### Appreciation
+  -  My shout out to  LITA IncubatorHUB
+  -  To my amazing tutors, thank you for the knowledge imparted
+  -  Shout out to our Mother in Isreal Pastor (Mrs) Folu Adeboye for this opprottunity.
+  -  Thank you RCCG -Africa Global Mission
+    
  
 
 
