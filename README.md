@@ -115,7 +115,6 @@ Power BI Class
 
 ![Poer BI Class](https://github.com/user-attachments/assets/7e1f5913-96b1-4c1a-ae4a-37644ad74904)
 
-
 ## Practical -Hands on -
 Excel - Statistical Analysis 
 Conditional Functions
@@ -140,6 +139,9 @@ Creating Tables and Writing Tables
 Map Visual
 
 ![Screenshot 2024-11-06 192922](https://github.com/user-attachments/assets/92e5e104-c248-4371-8d53-06de59d7107c)
+
+Biulding Power BI Dashboard
+![Screenshot 2024-11-07 152034](https://github.com/user-attachments/assets/c9629f4c-c47a-4b9b-8642-0e85fe07103d)
 
 
 ### Experience: 
