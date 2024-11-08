@@ -104,7 +104,7 @@ D. Power BI - A busness Intelligent tool
  7. The use of the Table view, Model view , DAX function
  8. How and when to use conditional columns
  9. How to check data tpye and make changes where applicable
- 10. How to do column quality checks
+ 10. How to do data quality checks
  11. Building Dashboard
  12. Use of visual pins -Charts, Cards, Tables, Metrics, Maps, Lines in visual representation of data
  13. How to drag values to
